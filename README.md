@@ -10,7 +10,7 @@ As Office Manager at Luna Builds, I manage payroll, contracts, budgeting, and mo
 
 - 🌱 I’m currently learning **CS50's Introduction to Computer Science and CS50's Web Programming with Python and JavaScript**
 
-- 🤝 I’m looking for help with [PinIt](https://github.com/Logan-Havens/PinIT)
+- 🤝 Click here to help me with this project: [PinIt](https://github.com/Logan-Havens/PinIT)
 
 - 📫 How to reach me **loganchavens@gmail.com**
 
